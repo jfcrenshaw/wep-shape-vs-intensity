@@ -163,4 +163,5 @@ cython_debug/
 
 figures/*.pdf
 figures/*.png
+sims/*.pkl
 **/.ipynb_checkpoints/
